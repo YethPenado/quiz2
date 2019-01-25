@@ -1,28 +1,37 @@
+a{
+    text-decoration: none;
+}
+
 body{
-  margin: 0;
-  padding: 20px;
-}
-
-h1{
-  font-family: Georgia, serif;
-  font-size: 2.625em;
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.subtitle{
-  font-size: 0.875em;
-  text-align: center;
+    margin: 0;
+    padding: 20px;
 }
 
 button{
-  cursor: pointer;
+    cursor: pointer;
 }
 
-a{
-  text-decoration: none;
+h1{
+    font-family: Georgia, serif;
+    font-size: 45px;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 p{
-  font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+span{
+    color: #fff;
+    font-size: 24px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.subtitle{
+    color: #333;
+    font-size: 14px;
+    padding-bottom: 15px; 
+    text-align: center;
 }
